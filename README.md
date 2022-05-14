@@ -1,7 +1,7 @@
 # Pricing table 
 Primeiro projeto criado a partir do BootCamp de WEB
 
-## Tecnologias utilizadas:
+### Tecnologias utilizadas:
 - HTML
 - CSS
 
