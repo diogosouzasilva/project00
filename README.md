@@ -5,3 +5,5 @@ Primeiro projeto criado a partir do BootCamp de Web Development
 - HTML
 - CSS
 
+### Conhecimentos utilizados:
+
