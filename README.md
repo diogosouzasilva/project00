@@ -1,4 +1,4 @@
-# Pricing table 
+# Pricing Table 
 Primeiro projeto criado a partir do BootCamp de Web Development
 
 ### Tecnologias utilizadas:
